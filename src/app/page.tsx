@@ -10,6 +10,8 @@ import AlertTitle from '@mui/material/AlertTitle'
 import MediaCard from '@/components/MediaCard'
 
 export default function HomePage() {
+
+  
   return (
     <Box
       sx={{
